@@ -1,6 +1,6 @@
 ---
 title: mingzailao 罗金铭
-role: Doctor At Dalian University of Technology
+role: Doctor at Dalian University of Technology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
